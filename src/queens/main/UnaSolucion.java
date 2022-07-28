@@ -1,4 +1,4 @@
-package am.main;
+package queens.main;
 
 
 /**
